@@ -16,5 +16,9 @@ This application stores data for menus, customers, orders, and transactions in a
 ## Notes
 If errors occur, it may be due to missing plugins. Please check and adjust according to the **Java Library and Plugins** folder.
 
+## Requirements
+- **Java Version**: 8
+- **Development Environment**: Developed using NetBeans 8.2
+
 ## SQL
 For the database structure, use the **db_restoran.sql** file.
